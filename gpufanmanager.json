@@ -1,0 +1,21 @@
+{
+    "interval": 1,
+    "devices": [
+        {
+            "gpuid": "gpu:0",
+            "tempmin": 40,
+            "tempmax": 60,
+            "fanmin": 20,
+            "fanmax": 100,
+            "fanids": [0, 1]
+        },
+        {
+            "gpuid": "gpu:1",
+            "tempmin": 40,
+            "tempmax": 60,
+            "fanmin": 20,
+            "fanmax": 100,
+            "fanids": [2, 3]
+        }
+    ]   
+}
